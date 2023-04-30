@@ -1,4 +1,4 @@
-# Image Sorter Script
+# Background Sorter Script
 
 This script sorts the images in a folder into different categories based on image background. It checks if an image has a transparent or matching color background (within a given tolerance) and sorts them accordingly. Remaining images are considered as photos with non-matching background colors.
 
